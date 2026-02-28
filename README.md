@@ -10,7 +10,7 @@ Java • C++ • OOP • Data Structures
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,git,github,vscode,idea,clion" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,git,github,visualstudio,idea,clion" />
 </p>
 
 ---
