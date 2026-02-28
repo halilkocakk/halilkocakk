@@ -34,10 +34,4 @@ Java • C++ • OOP • Data Structures
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilkocak&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=halilkocak&color=blue" />
-</p>
