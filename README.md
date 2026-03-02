@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Halil 👋</h1>
+<h1 align="center">Hi, I'm Halil İbrahim KOÇAK 👋</h1>
 
 <p align="center">
 Software Engineering Student at Çankaya University <br>
